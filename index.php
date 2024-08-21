@@ -89,6 +89,7 @@ $USERS = $_SESSION['USERS'];
 <h1 style="width:100%;">Welcome to User Registration</h1>
 
     
+    <hr> <br>
     <div class="container">
         
         <!-- Registration Form -->
@@ -143,5 +144,7 @@ $USERS = $_SESSION['USERS'];
             </div>
         </div>
     </div>
+      <br>
+    <hr>
 </body>
 </html>
